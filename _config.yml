@@ -17,9 +17,9 @@ logo_small_devices: "media/logo/logo.svg"
 navbar_links:
   - title: "Home"
     url: "#image-hero"
-  - title: "Skills"
+  - title: "Traits"
     url: "#features"
-  - title: "Services"
+  - title: "Knowledge"
     url: "#services"
   - title: "Work"
     url: "#work"    
@@ -36,45 +36,47 @@ navbar_color: "caribbean-green"
 # -------------------------
 
 title:            "Trent Rand"
-tagline:      	  "iOS Developer and Programmer"
+tagline:      	  "Software Developer
+"
 
 # Features Thumbs
 # -------------------------
 
 features_thumbs:
-  - title: "Rational Coding"
-    icon: "code"
-    description: "We do the job to be done with the required afforts and keep code clean for further development. All you need is code, but it have to be supplied with comments and test. Yes, even doctests when suitable."
-  - title: "Straitforward process"
-    icon: "flask"
-    description: "You may not think about software development process as we do it for you. And define the activities. In some cases project needs some requirements analysis to be done, sometimes it should relay on tests."
-  - title: "Functional design"
-    icon: "file-image-o"
-    description: "We do like sexy projects, but love to do your project sexy. We like our projects to be used by people with pleasure. That is why we follow design guides not to allow any pain for the site users. "
-  - title: "Responsive"
-    icon: "mobile"
-    description: "You need a mobile website. I need it anyway. Do you want to develop and support mobile version separately? No! So, you need the responsive web site to fit both desktop and mobile browsers!"
-  - title: "Open to customer"
-    icon: "bolt"
-    description: "We are open to customer and make all the processes as transparent as possible. We do not need to complecate the process in order to get more money. We just do what we can best and gain revenue from self-efficiency"
-  - title: "Lean"
-    icon: "flag"
-    description: "We have skills and we have experience. And this helps us to effective and cost effective. We are not low-costers, but you'll get the lower cost. Just because of effecency. Yes, we know what lean development does mean."
-  - title: "Fast"
-    icon: "map-marker"
-    description: "We can't perform some activities faster than they take, but we will definitely eleminate all show-stoppers and move forward towards the goal every day and every hour. To be fast in software development meens to have less risks."
-  - title: "Requirements analysis"
-    icon: "expand"
-    description: "It is important to have skillfull and fast hands, but you'll get nothing without a head involved. We do not only perform tasks, but define them by your vision or high level requirements. You what result you'd like to gain, we'll do the rest."
-
+  - title: "Personality"
+    icon: "heartbeat"
+    description: "Having a great personality is crucial, so why would I be any different? I’m human too, and behind this page is a passionate person actively working to drive innovation."
+  - title: "Team Player"
+    icon: "users"
+    description: "Two heads are better than one. Whether it’s on GitHub, in class, or at work, I’m always a passionate and active team member willing to contribute a bright mind"
+  - title: "Passion"
+    icon: "calendar"
+    description: "Take one look at my GitHub and you will see my passion. With commit history 5 days a week, all year long, the facts are present. I am active developer always looking to keep up with the next great technology."
+  - title: "Communication"
+    icon: "comment"
+    description: "Never hesitate to ask, I’m great at simplifying and teaching complex problems and scenarios. With a strong background and accomplishment as a tutor, I have the background needed to help provide great help and assistance."
+  - title: "Expertise"
+    icon: "crosshairs"
+    description: "Check both my services and open source code.  While having a strong expertise in software engineering, I am also great at everything from mobile app development to web applications, websites, networking and hardware"
+  - title: "Ownership"
+    icon: "globe"
+    description: "I don’t wait for tasks, I actively push for improvement. Being internally motivated to solve problems and create great things is my contribution to the world." 
+  - title: "Open Source"
+    icon: "code-fork"
+    description: "I ❤︎ GitHub. Not only is it great at managing my code, but it also makes for a great portfolio. If you have not already done so, head over my GitHub!"
+  - title: ""
+    icon: "question"
+    description: ""
+    
 # Blockquote
 # -------------------------
 
 blockquote: 
-   text: "Nice to meet you, my name is Trent Rand. I am an undergraduate student at Arizona State University in the Computer Science program with a focus towards Software Engineering"
-   tagline: "Code less, gain more!"
+   text: "I am an Arizona State University undergraduate student studying Computer Science & Software Engineering."
+   tagline: "Nice to meet you"
    button_text: "Read More"
    button_url: "#_"
+   
 
 # Services
 # -------------------------
@@ -89,6 +91,7 @@ services:
  - title: "Mobile apps development"
    icon: "mobile"
    description: "This is not a trend! You have to thnik about your mobile users. May be you even need to think about them first. We are doing different types of mobile applications for Android, iOS and Windows Mobile platforms. Blackberry is also an option."
+
 
 # Work Mosaic
 # -------------------------

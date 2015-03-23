@@ -540,7 +540,7 @@ body {
 }
 .welcome {
   padding: 1em;
-  background: rgba(0, 0, 0, 0.6);
+/*  background: rgba(0, 0, 0, 0.6);*/
   border-radius: 30px;
 }
 .welcome h1 {
