@@ -74,8 +74,8 @@ features_thumbs:
 blockquote: 
    text: "I am an Arizona State University undergraduate student studying Computer Science & Software Engineering."
    tagline: "Nice to meet you"
-   button_text: "Read More"
-   button_url: "#_"
+   button_text: "Download Resume"
+   button_url: "Trent Rand Resume.pdf"
    
 
 # Services
