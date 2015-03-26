@@ -84,15 +84,23 @@ blockquote:
 services:
  - title: "Software development"
    icon: "desktop"
-   description: "You have a problem. We can give you a solution with Python, Qt or even web scraping tools and frameworks. This is what you do usually need when know that you need not a web application or mobile application to be developed."
- - title: "Website development"
-   icon: "laptop"
-   description: "Modern web site is not just a html web page with some texts and images. It's complex application, with modern web interface, features to be stable, scalable and take care of that million of users you are dreaming about."
- - title: "Mobile apps development"
+   description: "Currently studying Software Engineering at Arizona State University, I have a strong background in the practice and methodologies needed in order to deliver a well made software to any of the leading platforms."
+ - title: "Website Development"
+   icon: "cloud"
+   description: "While I am not the most artistic person, I am particularly fluent in the HTML and CSS languages. I have the ability to work alongside an artist in order to create, configure, and launch your website on any of the leading web services or on a physical server"
+ - title: "Mobile Applications"
    icon: "mobile"
-   description: "This is not a trend! You have to thnik about your mobile users. May be you even need to think about them first. We are doing different types of mobile applications for Android, iOS and Windows Mobile platforms. Blackberry is also an option."
-
-
+   description: "Having first learned to program on the Android platform, I have long since been a big fan of mobile application development. My focus has now shifted towards iOS, although I have a strong background in the mobile application design principles needed to bring your application idea to the marketplace."
+ - title: "Networking"
+   icon: "sitemap"
+   description: "After being employed at PerfOpt in June 2014, I have since had the opportunity to directly work inside IO Datacenter in Phoenix, Arizona managing both a half and full server cabinet. I have a great understanding of basic networking, as well as hands-on experience with wiring and configuring PDUs, switches, firewalls, a KVM, servers, and NAS drives among others."
+ - title: "Hardware"
+   icon: "plug"
+   description: "After taking electronics and circuit courses at Arizona State University, I developed a love for working with circuitry. As a hobby, I have since begun to learn and work with the Arduino platform in an attempt to make my own Internet of Things electronics."
+ - title: "IT Management"
+   icon: "terminal"
+   description: "With an extensive background in both Mac OS X and Windows operating systems, I can configure and manage computer systems. Likewise, I have the knowledge required in order to troubleshoot and solve advanced software and hardware computer technical issues."
+   
 # Work Mosaic
 # -------------------------
 
