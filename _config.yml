@@ -7,7 +7,7 @@ name: 			  Trent Rand
 # Main Logo
 # -------------------------
 
-logo_regular: "media/logo/Logo.png"
+logo_regular: "media/logo/logo.png"
 logo_small_devices: "media/logo/logo.svg"
 
 
@@ -30,7 +30,7 @@ navbar_links:
 
 # Navigation Background Color. 
 # Options: caribbean-green, summer-sky, golden-poppy, deep-carmine-pink
-navbar_color: "caribbean-green"
+navbar_color: "applies-orange"
 
 # Image Hero
 # -------------------------
