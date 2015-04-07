@@ -8,7 +8,7 @@ name: 			  Trent Rand
 # -------------------------
 
 logo_regular: "media/logo/logo.png"
-logo_small_devices: "media/logo/logo.svg"
+logo_small_devices: "media/logo/logo.png"
 
 
 # Main Navigation Links
@@ -36,8 +36,7 @@ navbar_color: "applies-orange"
 # -------------------------
 
 title:            "Trent Rand"
-tagline:      	  "Software Developer
-"
+tagline:      	  "Software Developer"
 
 # Features Thumbs
 # -------------------------

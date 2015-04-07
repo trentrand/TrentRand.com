@@ -1,4 +1,4 @@
-module.exports = function(grunt) {
+module.exports = function (grunt) {
 
     // Project configuration.
     grunt.initConfig({
@@ -14,7 +14,7 @@ module.exports = function(grunt) {
             gruntRecessApp: {
                 command: 'grunt recess:app'
             },
-            
+
             gruntConcat: {
                 command: 'grunt concat'
             }
@@ -32,9 +32,9 @@ module.exports = function(grunt) {
                 '_config.yml',
                 'index.html'
             ],
-            
+
             tasks: ['shell:gruntConcat', 'shell:gruntRecessApp', 'shell:jekyllServe'],
-            
+
             options: {
                 interrupt: true,
                 atBegin: true
@@ -43,15 +43,15 @@ module.exports = function(grunt) {
 
         // Less lint and compile.
         recess: {
-          options: {
+            options: {
                 compile: true,
-                compress: true 
-          },
+                compress: true
+            },
 
-          app: {
-            src: ['_less/main.less'],
-            dest: './css/main.css'
-          }
+            app: {
+                src: ['_less/main.less'],
+                dest: '../css/main.css'
+            }
         },
 
         // Concat for the JS files.
@@ -66,17 +66,17 @@ module.exports = function(grunt) {
                     './_js/google-maps.js'
                 ],
 
-              dest: './js/main.js',
+                dest: './js/main.js',
             }
         }
     });
-    
+
     // NPM Dependencies.
     grunt.loadNpmTasks('grunt-shell');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-recess');
     grunt.loadNpmTasks('grunt-contrib-concat');
- 
+
     // Tasks.
     grunt.registerTask('default', ['shell']);
     grunt.registerTask('app', ['recess:app']);
