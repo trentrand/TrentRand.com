@@ -616,8 +616,7 @@ body {
 }
 
 .hero-image {
-    width: 81px;
-    background: transparent url('../media/img/hero-image.jpg') center 0 no-repeat fixed;
+    background: transparent url('../media/img/hero-image.png') center 0 no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
