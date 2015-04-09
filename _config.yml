@@ -104,10 +104,10 @@ services:
 # -------------------------
 
 work_thumbs:
- - title: "Coming Soon!"
-   description: "Don't worry, my portfolio is coming soon."
-   url: "#_"
-   image: "media/img/work-05.jpg"
+ - title: "iTunes Radio Unlimited"
+   description: "A jailbreak tweak to get rid of the annoying ads and skip limits of iTunes Radio for iOS"
+   url: "https://github.com/trentrand/iTunesRadioUnlimited"
+   image: "media/img/portfolio/itunesradiounlimited.png"
 
 # Contact
 # -------------------------
