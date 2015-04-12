@@ -108,7 +108,10 @@ work_thumbs:
    description: "A jailbreak tweak to get rid of the annoying ads and skip limits of iTunes Radio for iOS"
    url: "https://github.com/trentrand/iTunesRadioUnlimited"
    image: "media/img/portfolio/itunesradiounlimited.png"
-   
+ - title: "KarmaInfinity"
+   description: "KarmaInfinity is reddit upvote bot. It uses a single proxy per account to mimic reality for each user."
+   url: "https://github.com/trentrand/KarmaInfinity"
+   image: "media/img/portfolio/karmainfinity.png"   
 
 # Contact
 # -------------------------
