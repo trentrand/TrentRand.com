@@ -112,6 +112,11 @@ work_thumbs:
    description: "KarmaInfinity is reddit upvote bot. It uses a single proxy per account to mimic reality for each user."
    url: "https://github.com/trentrand/KarmaInfinity"
    image: "media/img/portfolio/karmainfinity.png"   
+- title: "Patient Care"
+   description: "Android application to allow patients to directly communicate with their health care provider."
+   url: "https://github.com/trentrand/Patient-Care"
+   image: "media/img/portfolio/karmainfinity.png"   
+
 
 # Contact
 # -------------------------
