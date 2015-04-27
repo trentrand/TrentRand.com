@@ -104,6 +104,10 @@ services:
 # -------------------------
 
 work_thumbs:
+ - title: "WWDC 2015 Scholarship"
+   description: "Apple WWDC 2015 scholarship application submission"
+   url: "https://github.com/trentrand/WWDC-2015-Scholarship"
+   image: "media/img/portfolio/WWDC2015.png"
  - title: "iTunes Radio Unlimited"
    description: "A jailbreak tweak to get rid of the annoying ads and skip limits of iTunes Radio for iOS"
    url: "https://github.com/trentrand/iTunesRadioUnlimited"
