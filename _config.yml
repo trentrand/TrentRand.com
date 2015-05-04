@@ -92,7 +92,7 @@ services:
    description: "Having first learned to program with the Android SDK, I have long since been a big fan of mobile application development. My focus has now shifted towards iOS, although I have a strong background in the mobile application design principles required to bring your application idea to the marketplace."
  - title: "Networking"
    icon: "sitemap"
-   description: "Since being employed at PerfOpt in June 2014, I have had the opportunity to directly work inside IO Datacenter in Phoenix, AZ managing both two server cabinets. I have a great understanding of basic networking, as well as hands-on experience with wiring and configuring PDUs, switches, firewalls, KVM, servers, and NAS drives among others."
+   description: "Since being employed at PerfOpt in June 2014, I have had the opportunity to work inside IO Datacenter in Phoenix, AZ managing two server cabinets. I have a great understanding of basic networking, as well as hands-on experience with wiring and configuring PDUs, switches, firewalls, KVM, servers, and NAS drives among others."
  - title: "Hardware"
    icon: "plug"
    description: "After taking electronics and circuit courses at Arizona State University, I developed a love for working with circuitry. As a hobby, I have since begun to learn and work with the Arduino platform in an attempt to make my own Internet of Things electronics."
