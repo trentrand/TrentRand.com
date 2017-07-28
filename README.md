@@ -1,4 +1,4 @@
-# Trent Rand.com
+# Trent Rand.com [![Build Status](https://travis-ci.org/trentrand/TrentRand.com.svg?branch=master)](https://travis-ci.org/trentrand/TrentRand.com)
 __Website Files for Angular redesign of TrentRand.com__
 
 ### Author
