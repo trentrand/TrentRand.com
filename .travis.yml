@@ -14,9 +14,7 @@ addons:
       - google-chrome-stable
 
 node_js:
-  - "6"
-  - "7"
-  - "node"
+  - "6.9.5"
 
 matrix:
   fast_finish: true
